@@ -9,21 +9,21 @@ body{
 	position:absolute;
 	top:50%;
 	left:50%;
-	width:922px;
-	height:305px;
+	width:1300px;
+	height:430px;
 	margin:auto;
 }
 
 .magazine-viewport .magazine{
-	width:922px;
-	height:305px;
-	left:-461px;
+	width:1300px;
+	height:430px;
+	left:-650px;
 	top:-300px;
 }
 
 .magazine-viewport .page{
-	width:461px;
-	height:305px;
+	width:650px;
+	height:430px;
 	background-color:white;
 	background-repeat:no-repeat;
 	background-size:100% 100%;
@@ -146,7 +146,7 @@ body{
 .magazine-viewport .next-button,
 .magazine-viewport .previous-button{
 	width:22px;
-	height:305px;
+	height:430px;
 	position:absolute;
 	top:0;
 }
